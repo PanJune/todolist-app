@@ -1,2 +1,7 @@
 # todolist-app
 IOS todolist development
+关于todolist的初步构想
+制作一个适合自己的todolist-app
+每天晚上固定一个时间点提醒用户写明天的代做事件（事件最多有20条）
+没件事都有一个完成时间限制（自己可调）到限定时间会提醒用户是否划去该事件
+关于每天重复的事件，todolist会专门询问你是否将该事件设置为日常
